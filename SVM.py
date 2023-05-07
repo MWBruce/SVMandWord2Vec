@@ -4,7 +4,8 @@
 ##  that predicts stock price based on reddit posts on any given day
 ##
 ##  Credit to the StatQuest YouTube Channel for lots of SVM and Word2Vec code, I 
-##  more so just combined the two and made some adjustments
+##  more so just combined the two and made some adjustments to make it useful for 
+##  predicting stock price movements from reddit posts
 ##
 ##
 ####################################################################################
